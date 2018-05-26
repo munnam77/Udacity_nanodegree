@@ -41,7 +41,7 @@ Yeah, yeah. I hear ya. When I first created this project there were no links
 to donate. They were only added after receiving a surprising amount of requests
 from very kind people who found the project useful and asked for them.
 
-* PayPal/Credit/Debit: [https://www.paypal.me/mikesprague](https://www.paypal.me/moazzemhossain)
+* PayPal/Credit/Debit:(https://www.paypal.me/moazzemhossain)
 
 ---
 
